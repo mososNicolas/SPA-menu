@@ -159,7 +159,8 @@ export default function App() {
               <div>
                 <h4 className="text-[#F5C056] mb-2">Contacto</h4>
                 <p className="text-sm text-[#F5E9D3]/80">WhatsApp: +57 3146819561</p>
-                <p className="text-sm text-[#F5E9D3]/80">Horario: 7AM - 8PM</p>
+                <p className="text-sm text-[#F5E9D3]/80">WhatsApp: +57 322 6146468</p>
+                <p className="text-sm text-[#F5E9D3]/80">Horario: Desde Las 10:30 AM</p>
               </div>
             </div>
 
@@ -176,7 +177,7 @@ export default function App() {
             {/* Copyright */}
             <div className="text-center">
               <p className="text-[#F5E9D3]/70 text-sm mb-2">
-                © 2024 La Mejor Lechona de Yumbo. Todos los derechos reservados.
+                © 2025 La Mejor Lechona de Yumbo. Todos los derechos reservados.
               </p>
               <p className="text-[#F5E9D3]/60 text-xs">
                 Más de 40 años manteniendo viva la tradición familiar · Gracias por preferirnos 💛
