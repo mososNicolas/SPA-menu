@@ -17,7 +17,7 @@ export function StoryBanner() {
               Nuestra historia comenzó con la valentía de mis abuelos, quienes llegaron a esta tierra buscando un futuro mejor. Mientras Yumbo crecía como potencia industrial, fue mi abuela quien encendió la chispa de la tradición, fundando el primer asadero y convirtiéndose en la pionera del sector.
             </p>
             <p>
-              Llevamos más de 35 años en el corazón del municipio, ofreciendo ese auténtico lechón asado que muchos reconocen como huilense o gobernado. Un sabor que ha pasado la prueba del tiempo.
+              Llevamos más de 40 años en el corazón del municipio, ofreciendo ese auténtico lechón asado que muchos reconocen como huilense o gobernado. Un sabor que ha pasado la prueba del tiempo.
             </p>
             <p>
               Este sueño lo hemos sostenido tres hermanos. Aunque uno de nosotros hoy nos cuida desde el cielo, su pasión sigue viva en cada plato que servimos. Gracias a ustedes y a las redes sociales, esta familia sigue creciendo y manteniendo viva la llama de la tradición.
@@ -37,7 +37,7 @@ export function StoryBanner() {
             <div className="flex flex-col items-center gap-2 text-center min-w-[180px] sm:mx-8">
               <Users className="w-8 h-8 text-[#F5C056]" />
               <div>
-                <h4 className="text-[#F5E9D3] font-bold">35+ Años</h4>
+                <h4 className="text-[#F5E9D3] font-bold">40 Años</h4>
                 <p className="text-[#F5E9D3]/70 text-xs">Tradición familiar</p>   
               </div>
             </div>
