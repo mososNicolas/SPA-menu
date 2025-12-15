@@ -30,7 +30,7 @@ export default function App() {
           </p>
           <div className="flex items-center justify-center gap-2 text-[#F5E9D3]/70 text-xs sm:text-sm">
             <span>👵</span>
-            <span>Recetas de nuestra abuela · Más de 35 años de tradición</span>
+            <span>Recetas de nuestra abuela · Más de 40 años de tradición</span>
             <span>👵</span>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function App() {
 
               <MenuItem
                 name={<span>Tamal <strong className="text-[#C43F2E]">Valluno</strong></span>}
-                description='Masa suave y aliñada con el inigualable "toque de la abuela", rellena de las tres carnes tradicionales. Sabor 100% de la región.'
+                description='Masa suave y aliñada con el inigualable "toque de la abuela", rellena de cerdo y pollo. Sabor 100% de la región.'
                 price="$13.000"
                 image={tamalesGroup}
                 isSpecial={true}
@@ -117,7 +117,7 @@ export default function App() {
           <div className="bg-white rounded-xl p-6 text-center shadow-[0_8px_30px_rgba(122,79,51,0.15)] border-2 border-[#F5C056]">
             <div className="text-[#C43F2E] mb-2 text-3xl">🏆</div>
             <h4 className="text-[#7A4F33] mb-1">Receta Tradicional</h4>
-            <p className="text-[#7A4F33]/70 text-sm">Desde 1989</p>
+            <p className="text-[#7A4F33]/70 text-sm">Desde 1983</p>
           </div>
 
           <div className="bg-white rounded-xl p-6 text-center shadow-[0_8px_30px_rgba(122,79,51,0.15)] border-2 border-[#F5C056]">
@@ -145,7 +145,7 @@ export default function App() {
             <div className="text-center mb-8">
               <h3 className="text-[#F5C056] text-2xl mb-3">La Mejor Lechona de Yumbo</h3>
               <p className="text-[#F5E9D3]/90 italic mb-4 max-w-2xl mx-auto">
-                Tres generaciones compartiendo el auténtico sabor de la lechona valluna.
+                Tres generaciones compartiendo el auténtico sabor de la lechona tolimense.
               </p>
             </div>
 
@@ -166,7 +166,7 @@ export default function App() {
             {/* Recognition Banner */}
             <div className="bg-[#C43F2E]/20 rounded-xl p-4 mb-6 text-center">
               <p className="text-[#F5E9D3] text-sm">
-                🏆 Auténtico Sabor Colombiano · Lo mejor del Lechón Huilense y Gobernado 🏆
+                🏆 Auténtico sabor de lechón asado y lechona tolimense 🏆
               </p>
             </div>
 
@@ -179,7 +179,7 @@ export default function App() {
                 © 2024 La Mejor Lechona de Yumbo. Todos los derechos reservados.
               </p>
               <p className="text-[#F5E9D3]/60 text-xs">
-                Más de 35 años manteniendo viva la tradición familiar · Gracias por preferirnos 💛
+                Más de 40 años manteniendo viva la tradición familiar · Gracias por preferirnos 💛
               </p>
             </div>
           </div>
