@@ -73,7 +73,7 @@ export default function App() {
                 name={<span>Tamal <strong className="text-[#C43F2E]">Tolimense</strong></span>}
                 description="Combinación generosa de cerdo, pollo, res y arroz, todo envuelto en hoja de plátano fresca."
                 price="$13.000"
-                image={lechonaPot}
+                image={tamalesGroup}
                 isSpecial={true}
               />
 
@@ -81,7 +81,7 @@ export default function App() {
                 name={<span>Tamal <strong className="text-[#C43F2E]">Valluno</strong></span>}
                 description='Masa suave y aliñada con el inigualable "toque de la abuela", rellena de cerdo y pollo. Sabor 100% de la región.'
                 price="$13.000"
-                image={tamalesGroup}
+                image={lechonaPot}
                 isSpecial={true}
               />
 
