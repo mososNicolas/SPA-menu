@@ -56,7 +56,7 @@ export default function App() {
                     Nuestra <span className="font-bold text-[#C43F2E] inline-flex items-center gap-1">receta secreta</span> de arroz con carne, acompañada de arepa y cuero extra crocante que es nuestra firma. ¡Incluye tenedor para que la disfrutes al instante!
                   </span>
                 }
-                price="$13.000"
+                price="$14.000"
                 image={lechonaCombo}
                 isSpecial={true}
               />
@@ -64,7 +64,7 @@ export default function App() {
               <MenuItem
                 name="Rellena Tradicional"
                 description="Deliciosa rellena artesanal, preparada con especias naturales y el sabor típico de antaño. El acompañamiento que no puede faltar."
-                price="$14.000"
+                price="$15.000"
                 image={rellena}
                 isSpecial={true}
               />
@@ -72,7 +72,7 @@ export default function App() {
               <MenuItem
                 name={<span>Tamal <strong className="text-[#C43F2E]">Tolimense</strong></span>}
                 description="Combinación generosa de cerdo, pollo, res y arroz, todo envuelto en hoja de plátano fresca."
-                price="$13.000"
+                price="$14.000"
                 image={tamalesGroup}
                 isSpecial={true}
               />
@@ -80,7 +80,7 @@ export default function App() {
               <MenuItem
                 name={<span>Tamal <strong className="text-[#C43F2E]">Valluno</strong></span>}
                 description='Masa suave y aliñada con el inigualable "toque de la abuela", rellena de cerdo y pollo. Sabor 100% de la región.'
-                price="$13.000"
+                price="$14.000"
                 image={lechonaPot}
                 isSpecial={true}
               />
@@ -88,7 +88,7 @@ export default function App() {
               <MenuItem
                 name="Plato de Lechón (Picada Mixta)"
                 description="¡Un festín completo! Carne jugosa de lechón asado, cuero crocante, rellena, papa, yuca y arepa; todo bañado en nuestro guacamole casero."
-                price="$26.000"
+                price="$27.000"
                 image={lechonaDish}
                 isSpecial={true}
               />
